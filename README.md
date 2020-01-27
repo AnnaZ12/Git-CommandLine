@@ -1,6 +1,6 @@
 ﻿# Git-CommandLine
 
-Актуальная версия 0.0.2
+Актуальная версия 0.0.3
 
 Ссылка на проект (https://annaz12.github.io/Git-CommandLine )
 
